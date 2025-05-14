@@ -9,9 +9,4 @@ A scalable live location tracking system built with Node.js, Socket.io, and Leaf
 - **Interactive Map**: OpenStreetMap integration with smooth zoom/pan
 - **Dynamic Markers**: Customizable user indicators with movement trails
 
-## 🛠️ Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Reena1912/Live-Location-Tracker.git
-   cd Live-Location-Tracker
